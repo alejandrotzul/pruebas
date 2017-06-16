@@ -12,7 +12,7 @@ document.write(d.getDate());
 
   <form action="prueba.php" >
     <h1>Hola Mundo 12</h1>
-    Mi primera página en HTML.
+    Mi primera página en HTML. tortoisegit
     <input type="submit" value="buscar" />
   </form>
 
