@@ -11,7 +11,7 @@ document.write(d.getDate());
   <body>
 
   <form action="prueba.php" >
-    <h1>Hola Mundo 12</h1>
+    <h1>Hola Mundo 12 de tortoisegit del 2017</h1>
     Mi primera página en HTML. tortoisegit
     <input type="submit" value="buscar" />
   </form>
